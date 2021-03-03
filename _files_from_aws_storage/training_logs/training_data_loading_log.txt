@@ -1,0 +1,8 @@
+2021-03-01/20:52:44		Loading training data!
+2021-03-01/20:53:22		Training data loaded successfully!
+2021-03-01/21:17:15		Loading training data!
+2021-03-01/21:17:33		Training data loaded successfully!
+2021-03-01/21:27:00		Loading training data!
+2021-03-01/21:27:28		Training data loaded successfully!
+2021-03-01/21:31:38		Loading training data!
+2021-03-01/21:33:39		Training data loaded successfully!

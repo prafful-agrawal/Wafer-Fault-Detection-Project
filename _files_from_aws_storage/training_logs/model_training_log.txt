@@ -1,0 +1,24 @@
+2021-03-01/20:52:40		Loading the training data from the source!
+2021-03-01/20:53:24		Training data loaded successfully!
+2021-03-01/20:53:26		Preprocessing the training data!
+2021-03-01/20:53:37		Unexpected Error: "['Output'] not found in axis"
+2021-03-01/21:17:11		Loading the training data from the source!
+2021-03-01/21:17:35		Training data loaded successfully!
+2021-03-01/21:17:37		Preprocessing the training data!
+2021-03-01/21:17:58		Training data preprocessed successfully!
+2021-03-01/21:18:00		Applying the clustering approach to training data!
+2021-03-01/21:18:13		Unexpected Error: 'numpy.ndarray' object has no attribute 'unique'
+2021-03-01/21:26:57		Loading the training data from the source!
+2021-03-01/21:27:30		Training data loaded successfully!
+2021-03-01/21:27:32		Preprocessing the training data!
+2021-03-01/21:28:01		Training data preprocessed successfully!
+2021-03-01/21:28:03		Applying the clustering approach to training data!
+2021-03-01/21:28:28		Unexpected Error: must be str, not KMeans
+2021-03-01/21:31:33		Loading the training data from the source!
+2021-03-01/21:33:42		Training data loaded successfully!
+2021-03-01/21:33:52		Preprocessing the training data!
+2021-03-01/21:34:54		Training data preprocessed successfully!
+2021-03-01/21:35:01		Applying the clustering approach to training data!
+2021-03-01/21:35:44		Training data clustered successfully!
+2021-03-01/21:35:48		Parsing through all the clusters and looking for the best ML algorithm to fit each individual cluster!
+2021-03-01/21:48:46		Best model for all the clusters found successfully!

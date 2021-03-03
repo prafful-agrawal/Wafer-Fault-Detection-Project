@@ -1,0 +1,91 @@
+2021-03-01/21:28:21		Saving the model to the storage!
+2021-03-01/21:28:23		Error occurred while saving the model: must be str, not KMeans
+2021-03-01/21:35:29		Saving the model to the storage!
+2021-03-01/21:35:33		Model saved successfully!
+2021-03-01/21:43:11		Saving the model to the storage!
+2021-03-01/21:43:22		Model saved successfully!
+2021-03-01/21:46:24		Saving the model to the storage!
+2021-03-01/21:46:30		Model saved successfully!
+2021-03-01/21:48:34		Saving the model to the storage!
+2021-03-01/21:48:41		Model saved successfully!
+2021-03-01/23:59:32		Loading the model from the storage!
+2021-03-01/23:59:38		Model loaded successfully!
+2021-03-01/23:59:52		Searching for correct model for the given cluster!
+2021-03-02/00:00:00		Correct model not found!
+2021-03-02/00:08:42		Loading the model from the storage!
+2021-03-02/00:08:46		Model loaded successfully!
+2021-03-02/00:08:56		Searching for correct model for the given cluster!
+2021-03-02/00:09:01		Loading the model from the storage!
+2021-03-02/00:09:07		Model loaded successfully!
+2021-03-02/00:09:09		Correct model found successfully!
+2021-03-02/00:17:23		Loading the model from the storage!
+2021-03-02/00:17:26		Model loaded successfully!
+2021-03-02/00:17:36		Searching for correct model for the given cluster!
+2021-03-02/00:17:39		Loading the model from the storage!
+2021-03-02/00:17:43		Model loaded successfully!
+2021-03-02/00:17:45		Correct model found successfully!
+2021-03-02/00:17:47		Searching for correct model for the given cluster!
+2021-03-02/00:17:51		Loading the model from the storage!
+2021-03-02/00:17:55		Model loaded successfully!
+2021-03-02/00:17:58		Correct model found successfully!
+2021-03-02/00:18:00		Searching for correct model for the given cluster!
+2021-03-02/00:18:05		Loading the model from the storage!
+2021-03-02/00:18:07		Model loaded successfully!
+2021-03-02/00:18:09		Correct model found successfully!
+2021-03-02/00:26:57		Loading the model from the storage!
+2021-03-02/00:27:00		Model loaded successfully!
+2021-03-02/00:28:16		Searching for correct model for the given cluster!
+2021-03-02/00:28:26		Loading the model from the storage!
+2021-03-02/00:28:45		Model loaded successfully!
+2021-03-02/00:28:52		Correct model found successfully!
+2021-03-02/00:29:43		Searching for correct model for the given cluster!
+2021-03-02/00:30:02		Loading the model from the storage!
+2021-03-02/00:30:17		Model loaded successfully!
+2021-03-02/00:30:25		Correct model found successfully!
+2021-03-02/00:31:20		Searching for correct model for the given cluster!
+2021-03-02/00:31:42		Loading the model from the storage!
+2021-03-02/00:31:54		Model loaded successfully!
+2021-03-02/00:31:57		Correct model found successfully!
+2021-03-02/00:50:58		Loading the model from the storage!
+2021-03-02/00:52:21		Loading the model from the storage!
+2021-03-02/00:52:23		Model loaded successfully!
+2021-03-02/00:53:54		Searching for correct model for the given cluster!
+2021-03-02/00:53:58		Loading the model from the storage!
+2021-03-02/00:54:01		Model loaded successfully!
+2021-03-02/00:54:02		Correct model found successfully!
+2021-03-02/00:56:51		Searching for correct model for the given cluster!
+2021-03-02/00:56:54		Loading the model from the storage!
+2021-03-02/00:56:56		Model loaded successfully!
+2021-03-02/00:56:58		Correct model found successfully!
+2021-03-02/01:05:32		Searching for correct model for the given cluster!
+2021-03-02/01:05:36		Loading the model from the storage!
+2021-03-02/01:05:38		Model loaded successfully!
+2021-03-02/01:05:40		Correct model found successfully!
+2021-03-02/01:16:08		Loading the model from the storage!
+2021-03-02/01:16:11		Model loaded successfully!
+2021-03-02/01:16:18		Searching for correct model for the given cluster!
+2021-03-02/01:16:21		Loading the model from the storage!
+2021-03-02/01:16:24		Model loaded successfully!
+2021-03-02/01:16:25		Correct model found successfully!
+2021-03-02/01:16:27		Searching for correct model for the given cluster!
+2021-03-02/01:16:30		Loading the model from the storage!
+2021-03-02/01:16:32		Model loaded successfully!
+2021-03-02/01:16:35		Correct model found successfully!
+2021-03-02/01:16:38		Searching for correct model for the given cluster!
+2021-03-02/01:16:41		Loading the model from the storage!
+2021-03-02/01:16:45		Model loaded successfully!
+2021-03-02/01:16:47		Correct model found successfully!
+2021-03-02/01:42:14		Loading the model from the storage!
+2021-03-02/01:42:16		Model loaded successfully!
+2021-03-02/01:42:22		Searching for correct model for the given cluster!
+2021-03-02/01:42:24		Loading the model from the storage!
+2021-03-02/01:42:26		Model loaded successfully!
+2021-03-02/01:42:28		Correct model found successfully!
+2021-03-02/01:42:29		Searching for correct model for the given cluster!
+2021-03-02/01:42:31		Loading the model from the storage!
+2021-03-02/01:42:33		Model loaded successfully!
+2021-03-02/01:42:36		Correct model found successfully!
+2021-03-02/01:42:38		Searching for correct model for the given cluster!
+2021-03-02/01:42:40		Loading the model from the storage!
+2021-03-02/01:42:42		Model loaded successfully!
+2021-03-02/01:42:43		Correct model found successfully!

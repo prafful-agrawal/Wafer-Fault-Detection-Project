@@ -1,0 +1,12 @@
+2021-03-01/21:18:02		Searching for the optimum number of clusters for the training data!
+2021-03-01/21:18:08		Optimum number of clusters found successfully!
+2021-03-01/21:18:10		Creating clusters for the training data!
+2021-03-01/21:18:12		Error occurred while creating clusters: 'numpy.ndarray' object has no attribute 'unique'
+2021-03-01/21:28:06		Searching for the optimum number of clusters for the training data!
+2021-03-01/21:28:16		Optimum number of clusters found successfully!
+2021-03-01/21:28:19		Creating clusters for the training data!
+2021-03-01/21:28:25		Error occurred while creating clusters: must be str, not KMeans
+2021-03-01/21:35:08		Searching for the optimum number of clusters for the training data!
+2021-03-01/21:35:20		Optimum number of clusters found successfully!
+2021-03-01/21:35:24		Creating clusters for the training data!
+2021-03-01/21:35:38		Clusters created successfully!

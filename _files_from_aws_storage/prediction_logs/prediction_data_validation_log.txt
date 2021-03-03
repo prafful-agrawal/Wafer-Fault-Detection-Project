@@ -1,0 +1,123 @@
+2021-02-28/22:06:46		Deleting existing good prediction data folder!
+2021-02-28/22:07:09		Existing good prediction data folder deleted successfully!
+2021-02-28/22:07:27		Deleting existing bad prediction data folder!
+2021-02-28/22:07:57		Existing bad prediction data folder deleted successfully!
+2021-02-28/22:08:41		Extracting values from prediction schema!
+2021-02-28/22:09:31		Values from prediction schema extracted successfully!
+2021-02-28/22:09:39		Generating a regex pattern of the file name!
+2021-02-28/22:09:47		Regex pattern generated successfully!
+2021-02-28/22:09:54		Validating prediction file names!
+2021-02-28/22:10:11		Valid file name! File moved to good data folder: Wafer_13012020_141000.csv
+2021-02-28/22:10:22		Valid file name! File moved to good data folder: Wafer_14012020_113045.csv
+2021-02-28/22:10:34		Invalid file name! File moved to bad data folder: Wafer_15010_130532.csv
+2021-02-28/22:10:45		Valid file name! File moved to good data folder: wafer_07012020_041011.csv
+2021-02-28/22:10:56		Valid file name! File moved to good data folder: wafer_13012020_090817.csv
+2021-02-28/22:11:07		Valid file name! File moved to good data folder: wafer_16012020_051629.csv
+2021-02-28/22:11:18		Valid file name! File moved to good data folder: wafer_20012020_090819.csv
+2021-02-28/22:11:28		Valid file name! File moved to good data folder: wafer_20022020_090716.csv
+2021-02-28/22:11:39		Valid file name! File moved to good data folder: wafer_21012020_080913.csv
+2021-02-28/22:11:50		Valid file name! File moved to good data folder: wafer_22022020_041119.csv
+2021-02-28/22:12:01		Valid file name! File moved to good data folder: wafer_23012020_011008.csv
+2021-02-28/22:12:13		Valid file name! File moved to good data folder: wafer_23012020_041211.csv
+2021-02-28/22:12:28		Valid file name! File moved to good data folder: wafer_27012020_080911.csv
+2021-02-28/22:12:39		Valid file name! File moved to good data folder: wafer_28012020_051011.csv
+2021-02-28/22:12:53		Valid file name! File moved to good data folder: wafer_28012020_090817.csv
+2021-02-28/22:13:05		Valid file name! File moved to good data folder: wafer_28042020_031911.csv
+2021-02-28/22:13:19		Valid file name! File moved to good data folder: wafer_29012020_050617.csv
+2021-02-28/22:13:31		Valid file name! File moved to good data folder: wafer_29012020_060756.csv
+2021-02-28/22:13:47		Valid file name! File moved to good data folder: wafer_31012020_090811.csv
+2021-02-28/22:13:55		File names validated successfully!
+2021-02-28/22:14:04		Validating number of columns in the prediction data!
+2021-02-28/22:16:25		Number of columns validated successfully!
+2021-02-28/22:16:36		Validating missing values in columns!
+2021-02-28/22:17:09		Invalid column! File moved to bad data folder: Wafer_13012020_141000.csv
+2021-02-28/22:17:42		Invalid column! File moved to bad data folder: Wafer_14012020_113045.csv
+2021-02-28/22:18:23		Invalid column! File moved to bad data folder: wafer_07012020_041011.csv
+2021-02-28/22:19:37		Invalid column! File moved to bad data folder: wafer_20012020_090819.csv
+2021-02-28/22:20:12		Invalid column! File moved to bad data folder: wafer_22022020_041119.csv
+2021-02-28/22:20:43		Invalid column! File moved to bad data folder: wafer_23012020_011008.csv
+2021-02-28/22:21:17		Invalid column! File moved to bad data folder: wafer_28012020_051011.csv
+2021-02-28/22:21:55		Invalid column! File moved to bad data folder: wafer_29012020_060756.csv
+2021-02-28/22:22:14		Invalid column! File moved to bad data folder: wafer_31012020_090811.csv
+2021-02-28/22:22:21		Missing values in columns validation completed!
+2021-03-01/21:58:47		Deleting existing good prediction data folder!
+2021-03-01/21:59:39		Existing good prediction data folder deleted successfully!
+2021-03-01/21:59:52		Deleting existing bad prediction data folder!
+2021-03-01/22:01:40		Existing bad prediction data folder deleted successfully!
+2021-03-01/22:02:18		Extracting values from prediction schema!
+2021-03-01/22:02:39		Values from prediction schema extracted successfully!
+2021-03-01/22:03:08		Generating a regex pattern of the file name!
+2021-03-01/22:03:44		Regex pattern generated successfully!
+2021-03-01/22:04:11		Validating prediction file names!
+2021-03-01/22:07:05		Valid file name! File moved to good data folder: Wafer_13012020_141000.csv
+2021-03-01/22:07:25		Valid file name! File moved to good data folder: Wafer_14012020_113045.csv
+2021-03-01/22:14:18		Invalid file name! File moved to bad data folder: Wafer_15010_130532.csv
+2021-03-01/22:22:03		Valid file name! File moved to good data folder: wafer_07012020_041011.csv
+2021-03-01/22:22:16		Valid file name! File moved to good data folder: wafer_13012020_090817.csv
+2021-03-01/22:22:36		Valid file name! File moved to good data folder: wafer_16012020_051629.csv
+2021-03-01/22:22:56		Valid file name! File moved to good data folder: wafer_20012020_090819.csv
+2021-03-01/22:23:09		Valid file name! File moved to good data folder: wafer_20022020_090716.csv
+2021-03-01/22:23:18		Valid file name! File moved to good data folder: wafer_21012020_080913.csv
+2021-03-01/22:23:25		Valid file name! File moved to good data folder: wafer_22022020_041119.csv
+2021-03-01/22:23:47		Valid file name! File moved to good data folder: wafer_23012020_011008.csv
+2021-03-01/22:24:01		Valid file name! File moved to good data folder: wafer_23012020_041211.csv
+2021-03-01/22:24:08		Valid file name! File moved to good data folder: wafer_27012020_080911.csv
+2021-03-01/22:24:14		Valid file name! File moved to good data folder: wafer_28012020_051011.csv
+2021-03-01/22:24:18		Valid file name! File moved to good data folder: wafer_28012020_090817.csv
+2021-03-01/22:24:22		Valid file name! File moved to good data folder: wafer_28042020_031911.csv
+2021-03-01/22:24:26		Valid file name! File moved to good data folder: wafer_29012020_050617.csv
+2021-03-01/22:24:31		Valid file name! File moved to good data folder: wafer_29012020_060756.csv
+2021-03-01/22:24:36		Valid file name! File moved to good data folder: wafer_31012020_090811.csv
+2021-03-01/22:24:38		File names validated successfully!
+2021-03-01/22:24:40		Validating number of columns in the prediction data!
+2021-03-01/22:29:36		Error occurred while validating number of columns: Read timeout on endpoint URL: "None"
+2021-03-01/22:34:48		Deleting existing good prediction data folder!
+2021-03-01/22:35:50		Existing good prediction data folder deleted successfully!
+2021-03-01/22:35:56		Deleting existing bad prediction data folder!
+2021-03-01/22:36:23		Existing bad prediction data folder deleted successfully!
+2021-03-01/22:36:51		Extracting values from prediction schema!
+2021-03-01/22:37:20		Values from prediction schema extracted successfully!
+2021-03-01/22:37:29		Generating a regex pattern of the file name!
+2021-03-01/22:37:40		Regex pattern generated successfully!
+2021-03-01/22:37:53		Validating prediction file names!
+2021-03-01/22:39:24		Valid file name! File moved to good data folder: Wafer_13012020_141000.csv
+2021-03-01/22:39:38		Valid file name! File moved to good data folder: Wafer_14012020_113045.csv
+2021-03-01/22:39:49		Invalid file name! File moved to bad data folder: Wafer_15010_130532.csv
+2021-03-01/22:40:07		Valid file name! File moved to good data folder: wafer_07012020_041011.csv
+2021-03-01/22:40:14		Valid file name! File moved to good data folder: wafer_13012020_090817.csv
+2021-03-01/22:40:19		Valid file name! File moved to good data folder: wafer_16012020_051629.csv
+2021-03-01/22:40:23		Valid file name! File moved to good data folder: wafer_20012020_090819.csv
+2021-03-01/22:40:34		Valid file name! File moved to good data folder: wafer_20022020_090716.csv
+2021-03-01/22:40:39		Valid file name! File moved to good data folder: wafer_21012020_080913.csv
+2021-03-01/22:40:47		Valid file name! File moved to good data folder: wafer_22022020_041119.csv
+2021-03-01/22:40:54		Valid file name! File moved to good data folder: wafer_23012020_011008.csv
+2021-03-01/22:41:03		Valid file name! File moved to good data folder: wafer_23012020_041211.csv
+2021-03-01/22:41:14		Valid file name! File moved to good data folder: wafer_27012020_080911.csv
+2021-03-01/22:41:32		Valid file name! File moved to good data folder: wafer_28012020_051011.csv
+2021-03-01/22:41:40		Valid file name! File moved to good data folder: wafer_28012020_090817.csv
+2021-03-01/22:41:52		Valid file name! File moved to good data folder: wafer_28042020_031911.csv
+2021-03-01/22:42:02		Valid file name! File moved to good data folder: wafer_29012020_050617.csv
+2021-03-01/22:42:08		Valid file name! File moved to good data folder: wafer_29012020_060756.csv
+2021-03-01/22:42:17		Valid file name! File moved to good data folder: wafer_31012020_090811.csv
+2021-03-01/22:42:20		File names validated successfully!
+2021-03-01/22:42:23		Validating number of columns in the prediction data!
+2021-03-01/22:47:13		Error occurred while validating number of columns: Read timeout on endpoint URL: "None"
+2021-03-01/22:51:47		Extracting values from prediction schema!
+2021-03-01/22:51:55		Values from prediction schema extracted successfully!
+2021-03-01/22:52:06		Validating number of columns in the prediction data!
+2021-03-01/22:56:35		Number of columns validated successfully!
+2021-03-01/22:56:42		Validating missing values in columns!
+2021-03-01/22:57:48		Invalid column! File moved to bad data folder: Wafer_13012020_141000.csv
+2021-03-01/22:58:08		Invalid column! File moved to bad data folder: Wafer_14012020_113045.csv
+2021-03-01/22:58:29		Invalid column! File moved to bad data folder: wafer_07012020_041011.csv
+2021-03-01/22:59:28		Invalid column! File moved to bad data folder: wafer_20012020_090819.csv
+2021-03-01/23:00:05		Invalid column! File moved to bad data folder: wafer_22022020_041119.csv
+2021-03-01/23:00:29		Invalid column! File moved to bad data folder: wafer_23012020_011008.csv
+2021-03-01/23:01:48		Invalid column! File moved to bad data folder: wafer_28012020_051011.csv
+2021-03-01/23:04:05		Invalid column! File moved to bad data folder: wafer_29012020_060756.csv
+2021-03-01/23:04:37		Invalid column! File moved to bad data folder: wafer_31012020_090811.csv
+2021-03-01/23:04:49		Missing values in columns validation completed!
+2021-03-01/23:20:40		Deleting existing good prediction data folder!
+2021-03-01/23:20:54		Existing good prediction data folder deleted successfully!
+2021-03-01/23:56:40		Moving bad prediction data to archive!
+2021-03-01/23:57:29		Bad training data moved to archive successfully!

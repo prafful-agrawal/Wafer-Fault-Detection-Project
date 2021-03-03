@@ -1,0 +1,8 @@
+2021-02-28/22:22:42		Replacing missing values with NULL!
+2021-02-28/22:25:57		Missing values replaced with NULL successfully!
+2021-02-28/22:26:11		Formatting the wafer column!
+2021-02-28/22:29:01		Wafer column formatted successfully!
+2021-03-01/23:05:18		Replacing missing values with NULL!
+2021-03-01/23:10:04		Missing values replaced with NULL successfully!
+2021-03-01/23:10:09		Formatting the wafer column!
+2021-03-01/23:13:39		Wafer column formatted successfully!

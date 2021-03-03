@@ -1,0 +1,73 @@
+2021-03-01/23:57:43		Loading the prediction data from the source!
+2021-03-01/23:58:48		Prediction data loaded successfully!
+2021-03-01/23:58:50		Preprocessing the prediction data!
+2021-03-01/23:59:24		Prediction data preprocessed successfully!
+2021-03-01/23:59:28		Applying the clustering approach to prediction data!
+2021-03-01/23:59:43		Prediction data clustered successfully!
+2021-03-01/23:59:48		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/00:00:03		Unexpected Error: Best model for cluster 0 not found!
+2021-03-02/00:07:11		Loading the prediction data from the source!
+2021-03-02/00:08:04		Prediction data loaded successfully!
+2021-03-02/00:08:06		Preprocessing the prediction data!
+2021-03-02/00:08:34		Prediction data preprocessed successfully!
+2021-03-02/00:08:36		Applying the clustering approach to prediction data!
+2021-03-02/00:08:51		Prediction data clustered successfully!
+2021-03-02/00:08:54		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/00:09:11		Unexpected Error: cannot concatenate object of type '<class 'numpy.ndarray'>'; only Series and DataFrame objs are valid
+2021-03-02/00:16:33		Loading the prediction data from the source!
+2021-03-02/00:16:52		Prediction data loaded successfully!
+2021-03-02/00:16:53		Preprocessing the prediction data!
+2021-03-02/00:17:16		Prediction data preprocessed successfully!
+2021-03-02/00:17:18		Applying the clustering approach to prediction data!
+2021-03-02/00:17:32		Prediction data clustered successfully!
+2021-03-02/00:17:34		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/00:18:11		Predictions made for all the clusters successfully!
+2021-03-02/00:18:12		Saving the predictions to the storage!
+2021-03-02/00:18:14		Unexpected Error: cannot reindex from a duplicate axis
+2021-03-02/00:23:09		Loading the prediction data from the source!
+2021-03-02/00:23:46		Prediction data loaded successfully!
+2021-03-02/00:23:48		Preprocessing the prediction data!
+2021-03-02/00:24:32		Loading the prediction data from the source!
+2021-03-02/00:25:17		Prediction data loaded successfully!
+2021-03-02/00:25:44		Preprocessing the prediction data!
+2021-03-02/00:26:48		Prediction data preprocessed successfully!
+2021-03-02/00:26:51		Applying the clustering approach to prediction data!
+2021-03-02/00:27:21		Prediction data clustered successfully!
+2021-03-02/00:27:26		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/00:32:16		Predictions made for all the clusters successfully!
+2021-03-02/00:49:44		Loading the prediction data from the source!
+2021-03-02/00:50:15		Loading the prediction data from the source!
+2021-03-02/00:50:33		Prediction data loaded successfully!
+2021-03-02/00:50:35		Preprocessing the prediction data!
+2021-03-02/00:50:53		Prediction data preprocessed successfully!
+2021-03-02/00:50:55		Applying the clustering approach to prediction data!
+2021-03-02/00:51:23		Loading the prediction data from the source!
+2021-03-02/00:51:46		Prediction data loaded successfully!
+2021-03-02/00:51:49		Preprocessing the prediction data!
+2021-03-02/00:52:15		Prediction data preprocessed successfully!
+2021-03-02/00:52:18		Applying the clustering approach to prediction data!
+2021-03-02/00:52:28		Prediction data clustered successfully!
+2021-03-02/00:52:33		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/01:06:41		Predictions made for all the clusters successfully!
+2021-03-02/01:06:50		Saving the predictions to the storage!
+2021-03-02/01:14:40		Predictions saved to the storage successfully!
+2021-03-02/01:14:59		Loading the prediction data from the source!
+2021-03-02/01:15:39		Prediction data loaded successfully!
+2021-03-02/01:15:41		Preprocessing the prediction data!
+2021-03-02/01:16:03		Prediction data preprocessed successfully!
+2021-03-02/01:16:05		Applying the clustering approach to prediction data!
+2021-03-02/01:16:15		Prediction data clustered successfully!
+2021-03-02/01:16:16		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/01:16:49		Predictions made for all the clusters successfully!
+2021-03-02/01:16:51		Saving the predictions to the storage!
+2021-03-02/01:16:54		Predictions saved to the storage successfully!
+2021-03-02/01:41:34		Loading the prediction data from the source!
+2021-03-02/01:41:52		Prediction data loaded successfully!
+2021-03-02/01:41:53		Preprocessing the prediction data!
+2021-03-02/01:42:10		Prediction data preprocessed successfully!
+2021-03-02/01:42:11		Applying the clustering approach to prediction data!
+2021-03-02/01:42:19		Prediction data clustered successfully!
+2021-03-02/01:42:21		Parsing through all the clusters and making predictions using the best algorithm found for that cluster during training!
+2021-03-02/01:42:45		Predictions made for all the clusters successfully!
+2021-03-02/01:42:46		Saving the predictions to the storage!
+2021-03-02/01:42:49		Predictions saved to the storage successfully!

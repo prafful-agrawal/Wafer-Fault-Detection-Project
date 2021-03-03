@@ -1,0 +1,30 @@
+2021-03-01/21:35:54		Searching for the best model for the given data!
+2021-03-01/21:35:59		Splitting data into Train-Test sets!
+2021-03-01/21:36:04		Data split successfully!
+2021-03-01/21:36:09		Searching for the best random forest model!
+2021-03-01/21:36:38		Best random forest model found successfully!
+2021-03-01/21:36:42		AUC for RF:	0.5
+2021-03-01/21:36:46		Searching for the best XGBoost model!
+2021-03-01/21:42:38		Best XGBoost model found successfully!
+2021-03-01/21:42:57		AUC for XGBoost:	0.5
+2021-03-01/21:43:04		Best model for the given data found successfully!
+2021-03-01/21:43:28		Searching for the best model for the given data!
+2021-03-01/21:43:31		Splitting data into Train-Test sets!
+2021-03-01/21:43:35		Data split successfully!
+2021-03-01/21:43:40		Searching for the best random forest model!
+2021-03-01/21:44:04		Best random forest model found successfully!
+2021-03-01/21:44:09		AUC for RF:	0.5
+2021-03-01/21:44:14		Searching for the best XGBoost model!
+2021-03-01/21:46:13		Best XGBoost model found successfully!
+2021-03-01/21:46:18		AUC for XGBoost:	0.5
+2021-03-01/21:46:22		Best model for the given data found successfully!
+2021-03-01/21:46:32		Searching for the best model for the given data!
+2021-03-01/21:46:34		Splitting data into Train-Test sets!
+2021-03-01/21:46:36		Data split successfully!
+2021-03-01/21:46:39		Searching for the best random forest model!
+2021-03-01/21:46:59		Best random forest model found successfully!
+2021-03-01/21:47:02		AUC for RF:	0.5
+2021-03-01/21:47:05		Searching for the best XGBoost model!
+2021-03-01/21:48:02		Best XGBoost model found successfully!
+2021-03-01/21:48:08		AUC for XGBoost:	0.5
+2021-03-01/21:48:19		Best model for the given data found successfully!

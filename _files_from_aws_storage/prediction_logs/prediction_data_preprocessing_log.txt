@@ -1,0 +1,89 @@
+2021-03-01/23:58:53		Removing the given columns from the prediction data!
+2021-03-01/23:58:55		Columns removed successfully!
+2021-03-01/23:58:58		Checking for NULL values in the prediction data!
+2021-03-01/23:59:00		NULL values checked successfully!
+2021-03-01/23:59:04		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-01/23:59:08		Missing values imputed successfully!
+2021-03-01/23:59:12		Checking for columns in the prediction data with zero standard deviation!
+2021-03-01/23:59:16		Standard deviation checked successfully!
+2021-03-01/23:59:19		Removing the given columns from the prediction data!
+2021-03-01/23:59:22		Columns removed successfully!
+2021-03-02/00:08:08		Removing the given columns from the prediction data!
+2021-03-02/00:08:11		Columns removed successfully!
+2021-03-02/00:08:13		Checking for NULL values in the prediction data!
+2021-03-02/00:08:15		NULL values checked successfully!
+2021-03-02/00:08:18		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:08:21		Missing values imputed successfully!
+2021-03-02/00:08:23		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:08:25		Standard deviation checked successfully!
+2021-03-02/00:08:28		Removing the given columns from the prediction data!
+2021-03-02/00:08:31		Columns removed successfully!
+2021-03-02/00:16:55		Removing the given columns from the prediction data!
+2021-03-02/00:16:57		Columns removed successfully!
+2021-03-02/00:16:58		Checking for NULL values in the prediction data!
+2021-03-02/00:17:00		NULL values checked successfully!
+2021-03-02/00:17:02		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:17:04		Missing values imputed successfully!
+2021-03-02/00:17:07		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:17:10		Standard deviation checked successfully!
+2021-03-02/00:17:12		Removing the given columns from the prediction data!
+2021-03-02/00:17:14		Columns removed successfully!
+2021-03-02/00:23:50		Removing the given columns from the prediction data!
+2021-03-02/00:23:52		Columns removed successfully!
+2021-03-02/00:23:53		Checking for NULL values in the prediction data!
+2021-03-02/00:23:55		NULL values checked successfully!
+2021-03-02/00:23:58		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:24:01		Missing values imputed successfully!
+2021-03-02/00:24:03		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:24:05		Standard deviation checked successfully!
+2021-03-02/00:24:07		Removing the given columns from the prediction data!
+2021-03-02/00:25:47		Removing the given columns from the prediction data!
+2021-03-02/00:25:49		Columns removed successfully!
+2021-03-02/00:25:53		Checking for NULL values in the prediction data!
+2021-03-02/00:25:55		NULL values checked successfully!
+2021-03-02/00:26:04		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:26:07		Missing values imputed successfully!
+2021-03-02/00:26:11		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:26:13		Standard deviation checked successfully!
+2021-03-02/00:26:41		Removing the given columns from the prediction data!
+2021-03-02/00:26:43		Columns removed successfully!
+2021-03-02/00:50:37		Removing the given columns from the prediction data!
+2021-03-02/00:50:38		Columns removed successfully!
+2021-03-02/00:50:40		Checking for NULL values in the prediction data!
+2021-03-02/00:50:42		NULL values checked successfully!
+2021-03-02/00:50:43		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:50:46		Missing values imputed successfully!
+2021-03-02/00:50:47		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:50:49		Standard deviation checked successfully!
+2021-03-02/00:50:50		Removing the given columns from the prediction data!
+2021-03-02/00:50:52		Columns removed successfully!
+2021-03-02/00:51:52		Removing the given columns from the prediction data!
+2021-03-02/00:51:54		Columns removed successfully!
+2021-03-02/00:51:57		Checking for NULL values in the prediction data!
+2021-03-02/00:51:58		NULL values checked successfully!
+2021-03-02/00:52:02		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/00:52:05		Missing values imputed successfully!
+2021-03-02/00:52:07		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/00:52:09		Standard deviation checked successfully!
+2021-03-02/00:52:12		Removing the given columns from the prediction data!
+2021-03-02/00:52:13		Columns removed successfully!
+2021-03-02/01:15:43		Removing the given columns from the prediction data!
+2021-03-02/01:15:45		Columns removed successfully!
+2021-03-02/01:15:47		Checking for NULL values in the prediction data!
+2021-03-02/01:15:49		NULL values checked successfully!
+2021-03-02/01:15:51		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/01:15:54		Missing values imputed successfully!
+2021-03-02/01:15:56		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/01:15:58		Standard deviation checked successfully!
+2021-03-02/01:16:00		Removing the given columns from the prediction data!
+2021-03-02/01:16:01		Columns removed successfully!
+2021-03-02/01:41:55		Removing the given columns from the prediction data!
+2021-03-02/01:41:56		Columns removed successfully!
+2021-03-02/01:41:58		Checking for NULL values in the prediction data!
+2021-03-02/01:41:59		NULL values checked successfully!
+2021-03-02/01:42:00		Imputing missing values in the prediction data using a KNN imputer!
+2021-03-02/01:42:03		Missing values imputed successfully!
+2021-03-02/01:42:04		Checking for columns in the prediction data with zero standard deviation!
+2021-03-02/01:42:06		Standard deviation checked successfully!
+2021-03-02/01:42:07		Removing the given columns from the prediction data!
+2021-03-02/01:42:09		Columns removed successfully!

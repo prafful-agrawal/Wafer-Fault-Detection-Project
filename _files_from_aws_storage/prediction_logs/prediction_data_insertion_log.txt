@@ -1,0 +1,20 @@
+2021-02-28/22:29:25		Inserting good prediction data into a collection!
+2021-02-28/22:29:34		Creating a collection for the prediction data!
+2021-02-28/22:29:45		Initializing a connection to MongoDB Atlas database!
+2021-02-28/22:29:54		Connected to the database successfully!
+2021-02-28/22:30:34		Error occurred while creating the collection: connection closed,connection closed,connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 603bcc0a8726e86ab07b6448, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('waferfaultdetectionclus-shard-00-00.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-02.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>]>
+2021-02-28/22:30:43		Error occurred while inserting the data into a collection: connection closed,connection closed,connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 603bcc0a8726e86ab07b6448, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('waferfaultdetectionclus-shard-00-00.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-02.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>]>
+2021-03-01/23:13:57		Inserting good prediction data into a collection!
+2021-03-01/23:14:01		Creating a collection for the prediction data!
+2021-03-01/23:14:06		Initializing a connection to MongoDB Atlas database!
+2021-03-01/23:14:15		Connected to the database successfully!
+2021-03-01/23:14:25		Collection created successfully!
+2021-03-01/23:20:28		Data inserted into a collection successfully!
+2021-03-01/23:21:16		Copying prediction data from the collection to a .CSV file!
+2021-03-01/23:21:29		Initializing a connection to MongoDB Atlas database!
+2021-03-01/23:21:43		Connected to the database successfully!
+2021-03-01/23:50:49		Error occurred while copying data from the collection to a .CSV file: waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net:27017: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-03-01/23:52:56		Copying prediction data from the collection to a .CSV file!
+2021-03-01/23:53:01		Initializing a connection to MongoDB Atlas database!
+2021-03-01/23:53:03		Connected to the database successfully!
+2021-03-01/23:56:38		Data copied from the collection to a .CSV file successfully!

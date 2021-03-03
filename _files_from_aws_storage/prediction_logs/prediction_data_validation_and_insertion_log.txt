@@ -1,0 +1,17 @@
+2021-02-28/22:06:32		Validating the prediction data!
+2021-02-28/22:22:27		Prediction data validated successfully!
+2021-02-28/22:22:35		Transforming the prediction data!
+2021-02-28/22:29:09		Prediction data transformed successfully!
+2021-02-28/22:29:17		Inserting the prediction data!
+2021-02-28/22:30:52		Unexpected Error: connection closed,connection closed,connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 603bcc0a8726e86ab07b6448, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('waferfaultdetectionclus-shard-00-00.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-02.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>]>
+2021-03-01/21:58:32		Validating the prediction data!
+2021-03-01/22:29:40		Unexpected Error: Read timeout on endpoint URL: "None"
+2021-03-01/22:34:43		Validating the prediction data!
+2021-03-01/22:48:31		Unexpected Error: Read timeout on endpoint URL: "None"
+2021-03-01/22:51:41		Validating the prediction data!
+2021-03-01/23:04:55		Prediction data validated successfully!
+2021-03-01/23:05:01		Transforming the prediction data!
+2021-03-01/23:13:47		Prediction data transformed successfully!
+2021-03-01/23:13:52		Inserting the prediction data!
+2021-03-01/23:50:53		Unexpected Error: waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net:27017: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2021-03-01/23:57:36		Prediction data inserted successfully!

@@ -1,0 +1,40 @@
+2021-03-01/20:53:28		Removing the given columns from the training data!
+2021-03-01/20:53:30		Columns removed successfully!
+2021-03-01/20:53:33		Separating features and label in the training data!
+2021-03-01/20:53:35		Error occurred while separating features and label: "['Output'] not found in axis"
+2021-03-01/21:17:38		Removing the given columns from the training data!
+2021-03-01/21:17:40		Columns removed successfully!
+2021-03-01/21:17:41		Separating features and label in the training data!
+2021-03-01/21:17:43		Features and label separated successfully!
+2021-03-01/21:17:44		Checking for NULL values in the training data!
+2021-03-01/21:17:46		NULL values checked successfully!
+2021-03-01/21:17:48		Imputing missing values in the training data using a KNN imputer!
+2021-03-01/21:17:50		Missing values imputed successfully!
+2021-03-01/21:17:52		Checking for columns in the training data with zero standard deviation!
+2021-03-01/21:17:53		Standard deviation checked successfully!
+2021-03-01/21:17:55		Removing the given columns from the training data!
+2021-03-01/21:17:57		Columns removed successfully!
+2021-03-01/21:27:34		Removing the given columns from the training data!
+2021-03-01/21:27:37		Columns removed successfully!
+2021-03-01/21:27:39		Separating features and label in the training data!
+2021-03-01/21:27:41		Features and label separated successfully!
+2021-03-01/21:27:44		Checking for NULL values in the training data!
+2021-03-01/21:27:46		NULL values checked successfully!
+2021-03-01/21:27:48		Imputing missing values in the training data using a KNN imputer!
+2021-03-01/21:27:51		Missing values imputed successfully!
+2021-03-01/21:27:53		Checking for columns in the training data with zero standard deviation!
+2021-03-01/21:27:56		Standard deviation checked successfully!
+2021-03-01/21:27:57		Removing the given columns from the training data!
+2021-03-01/21:27:59		Columns removed successfully!
+2021-03-01/21:33:58		Removing the given columns from the training data!
+2021-03-01/21:34:01		Columns removed successfully!
+2021-03-01/21:34:04		Separating features and label in the training data!
+2021-03-01/21:34:08		Features and label separated successfully!
+2021-03-01/21:34:12		Checking for NULL values in the training data!
+2021-03-01/21:34:16		NULL values checked successfully!
+2021-03-01/21:34:20		Imputing missing values in the training data using a KNN imputer!
+2021-03-01/21:34:24		Missing values imputed successfully!
+2021-03-01/21:34:27		Checking for columns in the training data with zero standard deviation!
+2021-03-01/21:34:30		Standard deviation checked successfully!
+2021-03-01/21:34:35		Removing the given columns from the training data!
+2021-03-01/21:34:42		Columns removed successfully!

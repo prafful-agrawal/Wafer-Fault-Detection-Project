@@ -1,0 +1,31 @@
+2021-02-28/17:39:20		Validating the training data!
+2021-02-28/17:40:17		Unexpected error: 
+2021-02-28/17:44:17		Validating the training data!
+2021-02-28/17:45:14		Unexpected error: 
+2021-02-28/17:55:38		Validating the training data!
+2021-02-28/18:06:52		Unexpected error: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2021-02-28/19:37:57		Validating the training data!
+2021-02-28/19:52:50		Training data validated successfully!
+2021-02-28/19:52:57		Transforming the training data!
+2021-02-28/19:53:08		Unexpected error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+2021-02-28/20:10:15		Validating the training data!
+2021-02-28/20:11:46		Unexpected error: Directory not found or otherwise empty!
+2021-02-28/21:14:28		Validating the training data!
+2021-02-28/21:41:47		Training data validated successfully!
+2021-02-28/21:41:54		Transforming the training data!
+2021-02-28/21:42:05		Unexpected error: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.
+2021-02-28/22:37:30		Validating the training data!
+2021-02-28/23:04:11		Training data validated successfully!
+2021-02-28/23:04:19		Transforming the training data!
+2021-02-28/23:11:57		Training data transformed successfully!
+2021-02-28/23:12:06		Inserting the training data!
+2021-02-28/23:13:36		Unexpected error: connection closed,connection closed,connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 603bd60f8726e86ab07b6449, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('waferfaultdetectionclus-shard-00-00.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-01.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>, <ServerDescription ('waferfaultdetectionclus-shard-00-02.zwf2l.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('connection closed',)>]>
+2021-03-01/17:26:11		Validating the training data!
+2021-03-01/20:07:31		Validating the training data!
+2021-03-01/20:23:16		Unexpected error: Read timeout on endpoint URL: "None"
+2021-03-01/20:28:09		Validating the training data!
+2021-03-01/20:39:14		Training data validated successfully!
+2021-03-01/20:39:17		Transforming the training data!
+2021-03-01/20:44:03		Training data transformed successfully!
+2021-03-01/20:44:05		Inserting the training data!
+2021-03-01/20:52:37		Training data inserted successfully!
